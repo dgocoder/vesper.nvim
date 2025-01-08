@@ -626,7 +626,7 @@ local function get_groups()
         typescriptReserved = { link = "VesperAqua" },
         typescriptLabel = { link = "VesperAqua" },
         typescriptFuncKeyword = { link = "VesperAqua" },
-        typescriptIdentifier = { link = "VesperYellow" },
+        typescriptIdentifier = { link = "VesperOrange" },
         typescriptBraces = { link = "VesperFg1" },
         typescriptEndColons = { link = "VesperFg1" },
         typescriptDOMObjects = { link = "VesperFg1" },
